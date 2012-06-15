@@ -5,7 +5,7 @@ Simply stream http(s) responses to the console.
 ##install
 
 ```bash
-$> npm install nget
+$> npm install nget -g
 ```
 
 ##usage

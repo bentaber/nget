@@ -1,9 +1,17 @@
 {
 	"name": "nget",
+	"author": "Ben Taber <ben.taber@gmail.com>",
 	"description": "Simply stream http(s) responses to the console",
+	"keywords": ["http", "https", "get", "curl", "wget", "utility", "stream", "stdout", "command line"],
 	"version": "0.0.2",
 	"bin": "./nget.js",
-	"engine": {
+	"preferGlobal": true,
+	"homepage": "https://github.com/bentaber/nget",
+	"repository": { 
+		"type" : "git",
+		"url": "https://github.com/bentaber/nget.git"
+	},
+	"engines": {
 		"node": ">0.6"
 	}
 }
