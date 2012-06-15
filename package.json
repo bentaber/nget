@@ -1,0 +1,9 @@
+{
+	"name": "nget",
+	"description": "Simply stream http(s) responses to the console",
+	"version": "0.0.1",
+	"bin": "./nget.js",
+	"engine": {
+		"node": ">0.6"
+	}
+}
